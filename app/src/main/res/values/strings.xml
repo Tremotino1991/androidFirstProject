@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Just Do Eat</string>
+    <string name="one_button">1</string>
+    <string name="two_button">2</string>
+    <string name="three_button">3</string>
+    <string name="four_button">4</string>
+    <string name="five_button">5</string>
+    <string name="six_button">6</string>
+    <string name="seven_button">7</string>
+    <string name="eight_button">8</string>
+    <string name="nine_button">9</string>
+    <string name="plus_button">+</string>
+    <string name="min_button">-</string>
+    <string name="for_button">*</string>
+    <string name="div_button">/</string>
+    <string name="zero_button">0</string>
+    <string name="par_button">(</string>
+    <string name="pars_button">)</string>
+    <string name="insert_camp">0123456789</string>
+    <string name="hint_email">insert your email</string>
+    <string name="hint_password">insert your password</string>
+    <string name="hint_phone">insert your phone</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_success">Login success</string>
+    <string name="email_error">Email failed</string>
+    <string name="password_error">Password failed</string>
+    <string name="phone_error">Phone failed</string>
+    <string name="register_success">Register success</string>
+    <string name="welcome">Welcome</string>
+</resources>
